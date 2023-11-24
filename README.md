@@ -27,7 +27,7 @@ _If only i could remember what’s the publickey of the Authority… I for sure 
 _Yes, it's the same of before, we have spared you some scuff work because we feel generos..._
 
 
-Before celebrating your victory go to **completeCtf.ts** and make sure to run the script so we’ll know you’re done! This script is very important because it will change your profile from a non-completed-CTF profile to a completed-CTF profile. If you’re interested go see that on the explorer 🤪\
+Before celebrating your victory go to **completeCtf.ts** and make sure to run the script so we’ll know you’re done! This script is very important because it will change your profile from a non-completed-CTF profile to a completed-CTF profile. If you’re interested go see that on the explorer 🤪
 
 **NB: Since this should be fun for everyone, if you’re stuck with a problem don’t hesitate to contact Leo or Andre this weekend! And to not ruin the fun for everyone we ask to not spoil where to find the missing piece of code are and how to find it!**
 
