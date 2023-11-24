@@ -32,4 +32,4 @@ Before celebrating your victory go to **completeCtf.ts** and make sure to run th
 **NB: Since this should be fun for everyone, if you’re stuck with a problem don’t hesitate to contact Leo or Andre this weekend! And to not ruin the fun for everyone we ask to not spoil where to find the missing piece of code are and how to find it!**
 
 _Maybe this can help... don't know..._\
-_Leo Wallet: AaPVSNu9qRC8BG2SzUr1JS9ZZJS35NHNMSArhV3JVDsz
+_Leo Wallet: AaPVSNu9qRC8BG2SzUr1JS9ZZJS35NHNMSArhV3JVDsz_
