@@ -2,7 +2,7 @@
 
 **For the First Week we’ll go easy on you. We prepared 5 different challenge that will test what you learned this week**
 
-Start by putting your **wba-wallet** inside the wallet folder and copying the **IDL** from Solscan/SolanaFM into the program folder. ProgramID = 
+Start by putting your **wba-wallet** inside the wallet folder and copying the **IDL** from Solscan/SolanaFM into the program folder. ProgramID = ctf1VWeMtgxa24zZevsXqDg6xvcMVy4FbP3cxLCpGha
 
 We convienetly created an airdrop script so if you're out of devnet sol you can just run **"yarn airdrop"**.
 
@@ -10,7 +10,7 @@ Each challenge has it's own "createMint#.ts" so you don't make any mistakes sinc
 
 ## Now let's start with the challenges!
 
-Start by going to the **startCtf.ts** file and create your own profile before starting the challenges.\\
+Start by going to the **startCtf.ts** file and create your own profile before starting the challenges.\
 
 * **Challenge 1 → go to challenge1.ts.** The objective of this challenge is to send **0.00000000000001** amount of token to the Vault.\
 _Yes, that's 14 decimals, you don't have to count them, maybe i said to much..._
