@@ -1,0 +1,35 @@
+{
+  "name": "ctf-week1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node ./startCtf.ts",
+    "airdrop": "ts-node ./airdrop.ts",
+    "createMint1": "ts-node ./createMint1.ts",
+    "challenge1": "ts-node ./challenge1.ts",
+    "createMint2": "ts-node ./createMint2.ts",
+    "challenge2": "ts-node ./challenge2.ts",
+    "createMint3": "ts-node ./createMint3.ts",
+    "challenge3": "ts-node ./challenge3.ts",
+    "createMint4": "ts-node ./createMint4.ts",
+    "createMetadata4": "ts-node ./createMetadata4.ts",
+    "challenge4": "ts-node ./challenge4.ts",
+    "createMint5": "ts-node ./createMint5.ts",
+    "challenge5": "ts-node ./challenge5.ts",
+    "complete": "ts-node ./completeCtf.ts",
+    "delete": "ts-node ./deleteProfile.ts"
+  },
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "^3.1.1",
+    "@metaplex-foundation/umi-bundle-defaults": "^0.8.10",
+    "@project-serum/anchor": "^0.26.0",
+    "@solana/spl-token": "^0.3.9",
+    "@solana/web3.js": "^1.75.0",
+    "@types/node": "^18.15.11",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
