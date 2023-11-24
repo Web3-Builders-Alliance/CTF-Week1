@@ -10,7 +10,7 @@ Each challenge has it's own "createMint#.ts" so you don't make any mistakes sinc
 
 ## Now let's start with the challenges!
 
-Start by going to the **startCtf.ts** file and create your own profile before starting the challenges.\
+Start by going to the **startCtf.ts** file and create your own profile before starting the challenges.
 
 * **Challenge 1 → go to challenge1.ts.** The objective of this challenge is to send **0.00000000000001** amount of token to the Vault.\
 _Yes, that's 14 decimals, you don't have to count them, maybe i said to much..._
