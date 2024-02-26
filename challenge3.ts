@@ -23,11 +23,11 @@ const profilePda = PublicKey.findProgramAddressSync([Buffer.from("profile"), key
 // Use the PDA for the Auth account
 // const authPda = ???
 
-// Paste here the mint address for challenge1 token
+// Paste here the mint address for challenge3 token
 const mint = new PublicKey("<Mint3 Address>");
 
-// Create the PDA for the Challenge2 Vault
-const vault = PublicKey.findProgramAddressSync([Buffer.from("vault2"), keypair.publicKey.toBuffer(), mint.toBuffer()], program.programId)[0];
+// Create the PDA for the Challenge3 Vault
+const vault = PublicKey.findProgramAddressSync([Buffer.from("vault3"), keypair.publicKey.toBuffer(), mint.toBuffer()], program.programId)[0];
 
 
 (async () => {
