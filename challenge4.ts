@@ -23,8 +23,8 @@ const program = new Program<Week1>(IDL, "ctf1VWeMtgxa24zZevsXqDg6xvcMVy4FbP3cxLC
 // Use the PDA for our CTF-Week1 profile
 const profilePda = PublicKey.findProgramAddressSync([Buffer.from("profile"), keypair.publicKey.toBuffer()], program.programId)[0];
 
-// Paste here the mint address for challenge1 token
-const mint = new PublicKey("7u7ds4TpkKNAnGeoUTTwbGsJg2wBWTHR7jqK2d2UBD7u");
+// Paste here the mint address for challenge4 token
+const mint = new PublicKey("<Mint4 Address>");
 
 // Create the PDA for the Challenge1 Vault
 const vault = PublicKey.findProgramAddressSync([Buffer.from("vault4"), keypair.publicKey.toBuffer(), mint.toBuffer()], program.programId)[0];
