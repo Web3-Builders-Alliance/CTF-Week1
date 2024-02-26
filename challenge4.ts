@@ -26,7 +26,7 @@ const profilePda = PublicKey.findProgramAddressSync([Buffer.from("profile"), key
 // Paste here the mint address for challenge4 token
 const mint = new PublicKey("<Mint4 Address>");
 
-// Create the PDA for the Challenge1 Vault
+// Create the PDA for the Challenge4 Vault
 const vault = PublicKey.findProgramAddressSync([Buffer.from("vault4"), keypair.publicKey.toBuffer(), mint.toBuffer()], program.programId)[0];
 
 const metadata_program = new PublicKey("metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s");
